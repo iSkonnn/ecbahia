@@ -1,3 +1,1 @@
-# ecbahia
-Just a small project for study purposes with [@iagoctaranto](https://github.com/iagoctaranto).   
-Template: [HTML5UP](https://html5up.net/)
+A small project about the 1st division brazilian soccer club "Bahia". Website made by Iago Taranto & Luis Humberto in Salvador, Bahia.
